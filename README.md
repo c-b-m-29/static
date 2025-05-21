@@ -37,11 +37,6 @@ static/
 4. Usa "Entrenar y Enviar Pesos" para participar en el aprendizaje federado.
 5. Dibuja un dígito en el canvas y haz clic en "Predecir" para probar el modelo.
 
-## Personalización
-
-- Puedes modificar el modelo en `main.js` para experimentar con diferentes arquitecturas.
-- El servidor WebSocket debe estar configurado para aceptar y enviar pesos y métricas.
-
 ## Créditos
 
 - [TensorFlow.js](https://www.tensorflow.org/js)
