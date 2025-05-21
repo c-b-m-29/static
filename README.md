@@ -13,7 +13,6 @@ Esta aplicación permite a cualquier usuario conectarse a un servidor de aprendi
 - Visualización de métricas (precisión, pérdida) y matriz de confusión.
 - Prueba interactiva del modelo con dibujo en canvas.
 - Gráficas responsivas de precisión y pérdida usando Chart.js.
-- Interfaz moderna con Bootstrap.
 
 ## Estructura de archivos
 
@@ -22,7 +21,6 @@ static/
 ├── index.html         # Interfaz principal
 ├── main.js            # Lógica JavaScript del cliente
 ├── mnist_sample.json  # Subconjunto de datos MNIST (debe estar en el mismo directorio)
-└── ...otros archivos opcionales
 ```
 
 ## Requisitos
@@ -52,4 +50,4 @@ static/
 
 ---
 
-**Desarrollado para fines educativos y experimentales.**
+**Creado con fines educativos y experimentales.**
